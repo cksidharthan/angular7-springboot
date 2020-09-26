@@ -35,4 +35,3 @@ When we build the project from the root directory, the angular project is built 
 
 Therefore when we run the jar package of the SupportSpringboot project, the angular site can be accessed in ``http:localhost:8080``
 
-For more information mail me at imsidharthan@gmail.com
